@@ -4,8 +4,8 @@
     --bg-color: #fff;
 
     --link-color:#1d60a3;
-    --link-state-color:#a31d1d;
-    --link-state-border-color: rgba(163, 29, 29, .5);
+    --link-state-color: #50759b;
+    --link-state-border-color: rgba(163, 29, 29, 0);
 
     --thead-bg-color: lightgrey;
     --table-border-color: lightgrey;
